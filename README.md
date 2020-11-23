@@ -1,5 +1,5 @@
 # Same-Code-Morse
-Program that obtains all the words that it contains in a list that share the same morse code. And the number of words that are not on the list
+This program gets all the words that share morse code with the input and are contained in "10000-english.txt". It also returns the number of combinations that are not in the list.
 
 Example of use.
 
